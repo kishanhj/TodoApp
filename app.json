@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Todo App",
+    "githubUrl": "https://github.com/kishanhj/TodoApp.git"
   }
 }
